@@ -1,5 +1,7 @@
 package com.Design.Patterns.composite;
 
+import com.Design.Patterns.decorator.Product;
+
 import java.util.List;
 
 public class Composite implements Promotion{
